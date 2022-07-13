@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* This is part of the Forms Project in the Odin Project Ruby on Rails Curriculum. Find it at http://www.theodinproject.com
+
 * ...
